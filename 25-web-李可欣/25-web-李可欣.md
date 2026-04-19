@@ -14,7 +14,7 @@
 
 - 功能说明：用于查看网页源代码、调试前端代码，是 Web 方向最基础的工具
 
-- 使用截图：!\[F12开发者工具界面](f12-devtools.png)）
+- 使用截图：![F12开发者工具界面](f12-devtools.png)
 
 
 
@@ -24,9 +24,7 @@
 
 - 功能说明：用于 URL 编码、Base64 编码等操作，可替代 Hackbar 完成简单的请求编辑
 
-- 安装截图：
-
-![Web-Encoder 安装成功截图](web-encoder-install.png)
+- 安装截图：![Web-Encoder 安装成功截图](web-encoder-install.png)
 
 
 
@@ -36,9 +34,7 @@
 
 - 功能说明：用于 Web 应用的抓包、修改请求、分析响应，是 Web 安全测试的核心工具
 
-- 安装截图：
-
-![Burp Suite 安装成功截图](burp-install.png)
+- 安装截图：![Burp Suite 安装成功截图](burp-install.png)
 
 
 
@@ -60,7 +56,7 @@
 
 - 最终提交 Flag：\*\*NSSCTF{WelcOme\_t0\_WLLMCTF\_Th1s\_1s\_th3\_G1ft}\*\*
 
-- 关键截图（源码来源）：!\[gift\_F12 源码来源](gift\_F12\_source.png)
+- 关键截图（源码来源）：![gift\_F12 源码来源](gift\_F12\_source.png)
 
 
 
@@ -80,7 +76,7 @@
 
 - 最终提交 Flag：\*\*已提交成功\*\*
 
-- 关键截图：!\[题目完成截图](all-complete.png) 
+- 关键截图：![题目完成截图](all-complete.png) 
 
 
 
@@ -98,5 +94,5 @@
 
 - 最终提交 Flag：已提交成功
 
-- 关键截图：!\[GET传参题目完成截图](get\_moe\_flag.png)
+- 关键截图：![GET传参题目完成截图](get\_moe\_flag.png)
 
